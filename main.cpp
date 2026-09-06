@@ -156,7 +156,7 @@ int main()
             break;
 
         case 4:
-            cout << "\nThank You! Visit Again ❤️\n";
+            cout << "\nThank You! Visit Again \n";
             break;
 
         default:
